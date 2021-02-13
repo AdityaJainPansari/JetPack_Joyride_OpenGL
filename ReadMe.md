@@ -5,7 +5,7 @@
 # Running the game
 	* To run the game enter these command in the directory of the game:
 		run	./graphics_asgn1 in directory output 
-#Rules
+# Rules
 	* You can use water ballons to kill enemies (fire-rays and dragons).
 	* There appears a green ring randomly and if you enter it , the player moves along the ring and is meanwhile protected from all enemies.
 	* Magnet appears randomly and pulls the player towards itself.
